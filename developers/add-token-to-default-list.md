@@ -10,7 +10,7 @@ date_modified: '2020-07-01'
 
 [If you are experimenting with tokens, you can add a token to your local version of MyCrypto.](/how-to/tokens/showing-and-loading-tokens)
 
-MyCrypto ships with a default token list that allows our Token Scanner functionality to check balances for a pre-determined set of tokens, which is displayed to the user.
+Dijets ships with a default token list that allows our Token Scanner functionality to check balances for a pre-determined set of tokens, which is displayed to the user.
 
 If a token is a not in the list, users are still able to add their desired token manually through our Custom Token functionality.
 
